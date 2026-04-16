@@ -1,7 +1,3 @@
-# CS 703 Applied Data Science Project
-# AI-Enhanced IDP for Home Health Intake
-# Student: Bhawana Zende | Monroe ID: 0263997
-
 # Core Data Science Libraries (Python 3.13 compatible)
 numpy>=1.26.0
 pandas>=2.1.0
