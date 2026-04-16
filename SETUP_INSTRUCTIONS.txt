@@ -81,8 +81,3 @@ Business Goal 3: Flag ≥75% compliance risks, <25% FP
 RESULT: 78% recall, 19% FP → MET ✓
 
 All models APPROVED for deployment!
-
-═══════════════════════════════════════════════════════════════════════
-For full documentation, see:
-CS_703_Final_Report_Bhawana_Zende.docx (submitted separately)
-═══════════════════════════════════════════════════════════════════════
