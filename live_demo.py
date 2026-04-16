@@ -1,11 +1,5 @@
 #!/usr/bin/env python3
 """
-═══════════════════════════════════════════════════════════════════════════
-  CS 703 — FINAL PRESENTATION LIVE CODE DEMO
-  AI-Enhanced Intelligent Document Processing for Home Health Intake
-  Bhawana Zende | Monroe ID: 0263997 | King Graduate School, Monroe University
-═══════════════════════════════════════════════════════════════════════════
-
 Run this script during the Final Presentation to demonstrate the
 end-to-end IDP pipeline:
 
