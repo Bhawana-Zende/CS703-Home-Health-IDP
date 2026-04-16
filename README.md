@@ -206,7 +206,7 @@ The complete pipeline processes patient referrals in **18-25 minutes** compared 
 
 **Student:** Bhawana Zende  
 **Monroe ID:** 0263997  
-**Email:** [Your Email]  
+**Email:** Bzende3997@monroeu.edu  
 **Course:** CS 703 Applied Data Science Project  
 **Professor:** Nicholas Nardi
 
