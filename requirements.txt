@@ -1,1 +1,12 @@
+# Core Data Science Libraries (Python 3.13 compatible)
+numpy>=1.26.0
+pandas>=2.1.0
+scikit-learn>=1.3.0
 
+# Natural Language Processing
+spacy>=3.7.0
+
+# Note: After installing requirements, download the spaCy English model:
+# python -m spacy download en_core_web_sm
+
+# Compatible with Python 3.9, 3.10, 3.11, 3.12, 3.13p
